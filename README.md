@@ -1,0 +1,1 @@
+# Earthquake_Simulation_Furkan_Goregen
